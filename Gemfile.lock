@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    user_time_zone (0.0.1)
+    user_time_zone (0.0.2)
       rails (> 4)
 
 GEM
