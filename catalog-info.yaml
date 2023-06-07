@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: user-time-zone
+  description: |
+    Adds a user's time zone to the request context/dom
+  tags:
+    - javascript
+    - ruby
+    - rails
+    - gem
+    - timezone
+  annotations:
+    jira/project-key: STANDARD
+    backstage.io/source-location: url:https://github.com/Kajabi/user_time_zone/tree/main
+    github.com/project-slug: Kajabi/user_time_zone
+spec:
+  system: kajabi-products
+  type: gem
+  owner: standard-model
+  lifecycle: production
