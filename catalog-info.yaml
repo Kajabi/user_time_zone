@@ -12,7 +12,7 @@ metadata:
     - timezone
   annotations:
     jira/project-key: STANDARD
-    backstage.io/source-location: url:https://github.com/Kajabi/user_time_zone/tree/main
+    backstage.io/source-location: url:https://github.com/Kajabi/user_time_zone/tree/master
     github.com/project-slug: Kajabi/user_time_zone
 spec:
   system: kajabi-products
